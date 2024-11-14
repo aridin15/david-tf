@@ -1,0 +1,19 @@
+# Deny
+*
+
+# Allow
+!**/*.sh
+!**/*.yml
+!**/*.yaml
+!**/*.tf
+!**/*.c
+!**/*.h
+!**/*.a
+!**/*.py
+!**/makefile
+!**/Dockerfile
+!**/docker-compose.yml
+!*/
+
+!/.myfuncs
+!/.gitignore
