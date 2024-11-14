@@ -2,6 +2,7 @@
 *
 
 # Allow
+!Jenkinsfile
 !**/*.sh
 !**/*.yml
 !**/*.yaml
