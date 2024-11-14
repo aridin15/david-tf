@@ -8,7 +8,7 @@ pipeline {
                     sh 'terraform fmt'
                     sh 'terraform validate'
                     sh 'echo hello'
-                    }
+
                 }
             }
         }
